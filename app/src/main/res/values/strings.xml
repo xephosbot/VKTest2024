@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">VK Test</string>
+    <string name="apply">Apply</string>
+    <string name="time_zone">Choose time zone</string>
+    <string-array name="time_zones">
+        <item>Europe/Moscow</item>
+        <item>America/Argentina/Buenos_Aires</item>
+        <item>Asia/Almaty</item>
+        <item>Asia/Tashkent</item>
+        <item>Australia/Canberra</item>
+        <item>Europe/Berlin</item>
+        <item>Europe/London</item>
+        <item>Europe/Paris</item>
+        <item>Europe/Rome</item>
+        <item>Pacific/Honolulu</item>
+    </string-array>
+</resources>
